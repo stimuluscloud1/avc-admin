@@ -3,7 +3,7 @@
         <nav id="leftsidebar-nav" class="sidebar-nav">
             <ul id="main-menu" class="metismenu">
                 <li class="heading">Main</li>
-                <li class="active"><a href="index.html"><i class="icon-home"></i><span>Dashboard</span></a></li>
+                <li class="active"><a href="index.php"><i class="icon-home"></i><span>Dashboard</span></a></li>
                 <li class="heading">Course</li>
                 <li class="middle">
                     <a href="#courses" class="has-arrow"><i class="icon-graduation"></i><span>Courses</span></a>
@@ -23,38 +23,27 @@
                         <li><a href="coupon.php">Coupon</a></li>
                     </ul>
                 </li>
+              
                 <li>
-                    <a href="#finance" class="has-arrow"><i class="fa fa-rupee (alias)"></i><span>Finance</span></a>
-                    <ul>
-                        <li><a href="payment-history.php">Payment History</a></li>
-                        <li><a href="reports.php">Reports</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="#exams" class="has-arrow"><i class="icon-bar-chart"></i><span>Exam</span></a>
-                    <ul>
-                        <li><a href="chart-morris.html">Morris</a> </li>
-                        <li><a href="chart-flot.html">Flot</a> </li>
-                        <li><a href="chart-chartjs.html">ChartJS</a> </li>
-                        <li><a href="chart-jquery-knob.html">Jquery Knob</a> </li>
-                        <li><a href="chart-sparkline.html">Sparkline Chart</a></li>
-                        <li><a href="chart-peity.html">Peity</a></li>
-                        <li><a href="chart-c3.html">C3 Charts</a></li>
-                        <li><a href="chart-gauges.html">Gauges</a></li>
-                    </ul>
+                    <a href="exam-master.php"><i class="icon-bar-chart"></i><span>Exam Master</span></a>
+
                 </li>
                 <li>
                     <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Blog</span></a>
                     <ul>
-                        <li><a href="blog-post.html">New Post</a></li>
-                        <li><a href="blog-list.html">Blog List</a></li>
+                        <li><a href="blog-post.php">New Post</a></li>
+                        <li><a href="blog-list.php">Blog List</a></li>
                         <li><a href="blog-details.html">Blog Detail</a></li>
                     </ul>
                 </li>
-                <li class="heading">App Support</li>
-                <li><a href="#"><i class="icon-envelope"></i><span>Support</span></a></li>
-                <li><a href="#"><i class="icon-briefcase"></i>Career</a></li>
-                <li><a href="#"><i class="fa fa-building-o"></i>Corporate</a></li>
+                <li class="heading">Support</li>
+                <li>
+                    <a href="payment-history.php"><i class="fa fa-rupee (alias)"></i><span>Finance</span></a>
+                   
+                </li>
+                <li><a href="support.php"><i class="icon-envelope"></i><span>Support</span></a></li>
+                <!-- <li><a href="#"><i class="icon-briefcase"></i>Career</a></li>
+                <li><a href="#"><i class="fa fa-building-o"></i>Corporate</a></li> -->
                 <li class="heading">App Setting</li>
                 <li>
                     <a href="#setting" class="has-arrow"><i class="icon-settings"></i><span>Settings</span></a>

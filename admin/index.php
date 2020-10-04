@@ -257,261 +257,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-12">
-                <div class="card">
-                    <div class="header">
-                        <h2 class="text-center">Site Traffic</h2>
-                    </div>
-                    <div class="body">
-                        <div class="row text-center">
-                            <div class="col-6 border-right border-bottom pb-4 pt-4">
-                                <div id="Traffic1" class="carousel vert slide" data-ride="carousel" data-interval="3000">
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <label class="mb-0">Total User</label>
-                                            <h4 class="font-30 font-weight-bold text-primary">11,545</h4>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <label class="mb-0">New User</label>
-                                            <h4 class="font-30 font-weight-bold text-success">7,326</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 border-bottom pb-4 pt-4">
-                                <div id="Traffic1" class="carousel vert slide" data-ride="carousel" data-interval="3000">
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <label class="mb-0">Chat</label>
-                                            <h4 class="font-30 font-weight-bold text-warning">542</h4>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <label class="mb-0">Missed Chats</label>
-                                            <h4 class="font-30 font-weight-bold text-danger">73</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header">
-                        <h2 class="text-center">Complated</h2>
-                    </div>
-                    <div class="body">
-                        <div class="form-group">
-                            <label class="d-block">Positive Sentiment <span class="float-right">77%</span></label>
-                            <div class="progress">
-                                <div class="progress-bar progress-bar-success" role="progressbar" role="progressbar" aria-valuenow="77" aria-valuemin="0" aria-valuemax="100" style="width: 77%;"></div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label class="d-block">Return Visitors <span class="float-right">50%</span></label>
-                            <div class="progress">
-                                <div class="progress-bar progress-bar-success" role="progressbar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label class="d-block">Comments <span class="float-right">23%</span></label>
-                            <div class="progress">
-                                <div class="progress-bar progress-bar-success" role="progressbar" role="progressbar" aria-valuenow="23" aria-valuemin="0" aria-valuemax="100" style="width: 23%;"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row clearfix">
-            <div class="col-lg-4 col-md-12">
-                <div class="card weather2">
-                    <div class="body city-selected">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="city"><span>City:</span> San Francisco</div>
-                                <div class="night">Day - 12:07 PM</div>
-                            </div>
-                            <div class="info col-7">
-                                <div class="temp">
-                                    <h2>34°</h2>
-                                </div>
-                            </div>
-                            <div class="icon col-5">
-                                <i class="wi wi-day-cloudy-windy"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <table class="table table-striped m-b-0">
-                        <tbody>
-                            <tr>
-                                <td>Land area</td>
-                                <td class="font-medium">121.4 km²</td>
-                            </tr>
-                            <tr>
-                                <td>Humidity</td>
-                                <td class="font-medium">73%</td>
-                            </tr>
-                            <tr>
-                                <td>Pressure</td>
-                                <td class="font-medium">25.56 in</td>
-                            </tr>
-                            <tr>
-                                <td>Population</td>
-                                <td class="font-medium">8.65 lakhs</td>
-                            </tr>
-                            <tr>
-                                <td>Ceiling</td>
-                                <td class="font-medium">25280 ft</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <div class="carousel slide" data-ride="carousel">
-                        <div class="carousel-inner" role="listbox">
-                            <div class="carousel-item text-center active">
-                                <div class="col-12">
-                                    <ul class="row days-list list-unstyled">
-                                        <li class="day col-4">
-                                            <p>Monday</p>
-                                            <i class="wi wi-day-hail"></i>
-                                        </li>
-                                        <li class="day col-4">
-                                            <p>Tuesday</p>
-                                            <i class="wi wi-day-lightning"></i>
-                                        </li>
-                                        <li class="day col-4">
-                                            <p>Wednesday</p>
-                                            <i class="wi wi-day-storm-showers"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="carousel-item text-center">
-                                <div class="col-12">
-                                    <ul class="row days-list list-unstyled">
-                                        <li class="day col-4">
-                                            <p>Thursday</p>
-                                            <i class="wi wi-day-hail"></i>
-                                        </li>
-                                        <li class="day col-4">
-                                            <p>Friday</p>
-                                            <i class="wi wi-showers"></i>
-                                        </li>
-                                        <li class="day col-4">
-                                            <p>Saturday</p>
-                                            <i class="wi wi-day-sunny"></i>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-8 col-md-12">
-                <div class="card">
-                    <div class="header">
-                        <h2>Visitors </h2>
-                        <ul class="header-dropdown">
-                            <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                            <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
-                            <li class="dropdown">
-                                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
-                                <ul class="dropdown-menu dropdown-menu-right animated bounceIn">
-                                    <li><a href="javascript:void(0);">Action</a></li>
-                                    <li><a href="javascript:void(0);">Another Action</a></li>
-                                    <li><a href="javascript:void(0);">Something else</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="body">
-                        <div id="Visitors_chart" class="flot-chart m-b-25"></div>
-                        <div class="row text-center">
-                            <div class="col-lg-3 col-md-6 col-6">
-                                <div class="body xl-turquoise">
-                                    <h4>2,025</h4>
-                                    <span>America</span>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-6">
-                                <div class="body xl-parpl">
-                                    <h4>1,025</h4>
-                                    <span>Canada</span>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-6">
-                                <div class="body xl-salmon">
-                                    <h4>3,845</h4>
-                                    <span>India</span>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-6">
-                                <div class="body xl-slategray">
-                                    <h4>863</h4>
-                                    <span>Other</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row clearfix">
-            <div class="col-xl-4 col-lg-12 col-md-12">
-                <div class="card">
-                    <div class="header">
-                        <h2>ToDo List <small>This Month task list</small></h2>
-                        <ul class="header-dropdown">
-                            <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                            <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
-                            <li class="dropdown">
-                                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
-                                <ul class="dropdown-menu dropdown-menu-right animated bounceIn">
-                                    <li><a href="javascript:void(0);">Action</a></li>
-                                    <li><a href="javascript:void(0);">Another Action</a></li>
-                                    <li><a href="javascript:void(0);">Something else</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="body todo_list">
-                        <ul class="list-unstyled mb-4">
-                            <li>
-                                <label class="fancy-checkbox mb-0">
-                                    <input type="checkbox" name="checkbox" checked>
-                                    <span>Report Panel Usag</span>
-                                </label>
-                                <hr>
-                            </li>
-                            <li>
-                                <label class="fancy-checkbox mb-0">
-                                    <input type="checkbox" name="checkbox">
-                                    <span>Report Panel Usag</span>
-                                </label>
-                                <hr>
-                            </li>
-                            <li>
-                                <label class="fancy-checkbox mb-0">
-                                    <input type="checkbox" name="checkbox">
-                                    <span>New logo design for VueJs</span>
-                                </label>
-                                <hr>
-                            </li>
-                            <li>
-                                <label class="fancy-checkbox mb-0">
-                                    <input type="checkbox" name="checkbox">
-                                    <span>Design PSD files for clent</span>
-                                </label>
-                                <hr>
-                            </li>
-                            <li>
-                                <label class="fancy-checkbox mb-0">
-                                    <input type="checkbox" name="checkbox">
-                                    <span>New logo design for VueJs</span>
-                                </label>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+
+      
             <div class="col-xl-4 col-lg-6 col-md-6">
                 <div class="card">
                     <div class="header">
@@ -567,6 +314,18 @@
                                     </div>
                                 </a>
                             </li>
+                            <li class="offline">
+                                <a href="javascript:void(0);">
+                                    <div class="media">
+                                        <img class="media-object " src="../assets/images/xs/avatar1.jpg" alt="">
+                                        <div class="media-body">
+                                            <span class="name">Folisise Chosielie</span>
+                                            <span class="message">Art director, Movie Cut</span>
+                                            <span class="badge badge-outline status"></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
                             <li class="online">
                                 <a href="javascript:void(0);">
                                     <div class="media mb-0">
@@ -579,116 +338,12 @@
                                     </div>
                                 </a>
                             </li>
+                            
                         </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6">
-                <div class="card">
-                    <div class="header">
-                        <h2><strong>Marketing</strong> Campaign <small>This Month </small></h2>
-                        <ul class="header-dropdown">
-                            <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                            <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
-                            <li class="dropdown">
-                                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
-                                <ul class="dropdown-menu dropdown-menu-right animated bounceIn">
-                                    <li><a href="javascript:void(0);">Action</a></li>
-                                    <li><a href="javascript:void(0);">Another Action</a></li>
-                                    <li><a href="javascript:void(0);">Something else</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="body">
-                        <div class="table-responsive">
-                            <table class="table table-hover m-b-5">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <i class="fa fa-facebook fa-2x"></i>
-                                        </td>
-                                        <td>
-                                            <p class="margin-0">Facebook Ads</p>
-                                            <span>1.2k Likes, 418 Shares</span>
-                                        </td>
-                                        <td>
-                                            <h6 class="m-b-0">$ 402</h6>
-                                            <span class="text-muted">Spent</span>
-                                        </td>
-                                        <td class="text-right">
-                                            <div class="text-success">
-                                                <i class="icon-graph"></i> 23
-                                            </div>
-                                            <div class="text-muted">up</div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <i class="fa fa-twitter fa-2x"></i>
-                                        </td>
-                                        <td>
-                                            <p class="margin-0">Twitter Ads</p>
-                                            <span>1k Likes, 128 Shares</span>
-                                        </td>
-                                        <td>
-                                            <h6 class="m-b-0">$ 489</h6>
-                                            <span class="text-muted">Spent</span>
-                                        </td>
-                                        <td class="text-right">
-                                            <div class="text-danger">
-                                                <i class="icon-graph"></i>
-                                                -9
-                                            </div>
-                                            <div class="text-muted">down</div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <i class="fa fa-instagram fa-2x"></i>
-                                        </td>
-                                        <td>
-                                            <p class="margin-0">Instagram Post</p>
-                                            <span>1k Follows, 228 Likes</span>
-                                        </td>
-                                        <td>
-                                            <h6 class="mb-0">$ 718 </h6>
-                                            <span class="text-muted">Spent</span>
-                                        </td>
-                                        <td class="text-right">
-                                            <div class=" text-success">
-                                                <i class="icon-graph"></i>
-                                                16
-                                            </div>
-                                            <div class="text-muted">up</div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <i class="fa fa-linkedin fa-2x"></i>
-                                        </td>
-                                        <td>
-                                            <p class="margin-0">LinkedIn Post</p>
-                                            <span>1k Follows, 228 Likes</span>
-                                        </td>
-                                        <td>
-                                            <h6 class="mb-0">$ 768</h6>
-                                            <span class="text-muted">Spent</span>
-                                        </td>
-                                        <td class="text-right">
-                                            <div class="text-success">
-                                                <i class="icon-graph"></i>
-                                                27
-                                            </div>
-                                            <div class="text-muted">up</div>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>

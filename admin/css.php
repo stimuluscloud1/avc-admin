@@ -14,12 +14,13 @@
     <link rel="stylesheet" href="../assets/vendor/bootstrap-multiselect/bootstrap-multiselect.css">
     <link rel="stylesheet" href="../assets/vendor/parsleyjs/css/parsley.css">
     <link rel="stylesheet" href="../assets/vendor/nestable/jquery-nestable.css"/>
-
+    <link rel="stylesheet" href="../assets/vendor/table-dragger/table-dragger.min.css">
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/blog.css">
     <link rel="stylesheet" href="assets/css/color_skins.css">
+    <link rel="stylesheet" href="assets/css/inbox.css">
     <style>
         td.details-control {
             background: url('../assets/images/details_open.png') no-repeat center center;
