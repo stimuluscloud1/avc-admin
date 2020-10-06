@@ -391,7 +391,7 @@
                     </div>            
                     <div class="col-lg-7 col-md-4 col-sm-12 text-right">
                         <ul class="breadcrumb justify-content-end">
-                            <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>                            
+                            <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>                            
                             <li class="breadcrumb-item">Blog</li>
                             <li class="breadcrumb-item active">Blog List</li>
                         </ul>
@@ -416,12 +416,10 @@
                         </div>
                         <div class="footer">
                             <div class="actions">
-                                <a href="javascript:void(0);" class="btn btn-outline-secondary">Continue Reading</a>
+                                <a href="blog-details.php" class="btn btn-outline-secondary">Continue Reading</a>
                             </div>
                             <ul class="stats">
-                                <li><a href="javascript:void(0);">General</a></li>
-                                <li><a href="javascript:void(0);" class="icon-heart">28</a></li>
-                                <li><a href="javascript:void(0);" class="icon-bubbles">128</a></li>
+                                <li><a href="edit-blog.php">EDIT</a></li>
                             </ul>
                         </div>
                     </div>
@@ -443,12 +441,10 @@
                         </div>
                         <div class="footer">
                             <div class="actions">
-                                <a href="javascript:void(0);" class="btn btn-outline-secondary">Continue Reading</a>
+                                <a href="blog-details.php" class="btn btn-outline-secondary">Continue Reading</a>
                             </div>
                             <ul class="stats">
-                                <li><a href="javascript:void(0);">General</a></li>
-                                <li><a href="javascript:void(0);" class="icon-heart">28</a></li>
-                                <li><a href="javascript:void(0);" class="icon-bubbles">128</a></li>
+                                <li><a href="edit-blog.php">EDIT</a></li>
                             </ul>
                         </div>
                     </div>
@@ -470,12 +466,10 @@
                         </div>
                         <div class="footer">
                             <div class="actions">
-                                <a href="javascript:void(0);" class="btn btn-outline-secondary">Continue Reading</a>
+                                <a href="blog-details.php" class="btn btn-outline-secondary">Continue Reading</a>
                             </div>
                             <ul class="stats">
-                                <li><a href="javascript:void(0);">General</a></li>
-                                <li><a href="javascript:void(0);" class="icon-heart">28</a></li>
-                                <li><a href="javascript:void(0);" class="icon-bubbles">128</a></li>
+                                <li><a href="edit-blog.php">EDIT</a></li>
                             </ul>
                         </div>
                     </div>
@@ -497,12 +491,10 @@
                         </div>
                         <div class="footer">
                             <div class="actions">
-                                <a href="javascript:void(0);" class="btn btn-outline-secondary">Continue Reading</a>
+                                <a href="blog-details.php" class="btn btn-outline-secondary">Continue Reading</a>
                             </div>
                             <ul class="stats">
-                                <li><a href="javascript:void(0);">General</a></li>
-                                <li><a href="javascript:void(0);" class="icon-heart">28</a></li>
-                                <li><a href="javascript:void(0);" class="icon-bubbles">128</a></li>
+                                <li><a href="edit-blog.php">EDIT</a></li>
                             </ul>
                         </div>
                     </div>
@@ -580,37 +572,6 @@
                                             <img src="../assets/images/blog/blog-page-2.jpg" alt="Awesome Image">                                        
                                         </div>                                            
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="header">
-                            <h2>Instagram Post</h2>
-                        </div>
-                        <div class="body widget">
-                            <ul class="list-unstyled instagram-plugin m-b-0">
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/05-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/06-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/07-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/08-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/09-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/10-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/11-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/12-img.jpg" alt="image description"></a></li>
-                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/13-img.jpg" alt="image description"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="header">
-                            <h2>Email Newsletter <small>Get our products/news earlier than others, let’s get in touch.</small></h2>
-                        </div>
-                        <div class="body widget newsletter">                        
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Enter Email">
-                                <div class="input-group-append">
-                                    <span class="input-group-text"><i class="icon-paper-plane"></i></span>
                                 </div>
                             </div>
                         </div>

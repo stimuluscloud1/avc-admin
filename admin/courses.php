@@ -18,14 +18,75 @@
             </div>
 
             <div class="row clearfix">
+            <div class="col-lg-12">
+                <div class="card">
+                <div class="header">
+                            <h2>Add Course</h2>
+                        </div>
+                    <div class="body">
+                        <div class="form-group">
+                            <label for="title">Title</label>
+                            <input type="text" class="form-control" placeholder="Enter title here" />
+                        </div>
+                        <!-- <div class="form-group">
+                            <label for="category">Select Instructor</label>
+                            <select name="multiselect1" class="form-control">
+                                <option selected>Select Instructor</option>
+                                <option value="cheese">Nikhil Gupta</option>
+                                <option value="tomatoes">Amit Chawla</option>
+                                <option value="mozarella">Sourabh Gupta</option>
+                            </select>
+
+                        </div> -->
+
+                        <div class="form-group">
+                            <label for="category">Select Course Catergory</label>
+                            <select id="multiselect1" name="multiselect1[]" class="form-control" multiple="multiple">
+                                <option selected>Select Category</option>
+                                <option value="cheese">Finance</option>
+                                <option value="tomatoes">Accounting Standards</option>
+                                <option value="mozarella">Direct Taxation</option>
+                                <option value="mushrooms">Indirect Taxation</option>
+                                <option value="pepperoni">Audit</option>
+                                <option value="onions">Strategic Management</option>
+                            </select>
+                            <small id="fileHelp" class="form-text text-muted">Use ctrl + click to select multiple</small>
+                        </div>
+
+
+                        <div class="form-group m-t-20 m-b-20">
+                            <label for="thumbnail">Upload Thumbnail</label>
+                            <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp">
+                            <small id="fileHelp" class="form-text text-muted">Max 2MB File</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="video">Introductory video</label><br>
+                            <input type="file" name="file[]" class="file_multi_video" accept="video/*"><br><br>
+
+                            <video width="300" controls>
+                                <source src="mov_bbb.mp4" id="video_here">
+                                Your browser does not support HTML5 video.
+                            </video>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label for="description">Description <small>(Max 250 words)</small></label>
+                            <div class="summernote">
+                                <p></p>
+                            </div>
+
+                        </div>
+                        <button type="submit" class="btn btn-primary">Add Course</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row clearfix">
                 <div class="col-lg-12">
                     <div class="card">
                         <div class="header">
                             <h2>Course List</h2>
-                            <ul class="header-dropdown">
-                                <li><a href="course-add.php"><button type="button" class="btn btn-success" title="Add Course"><i class="icon-plus"></i> New Course</button></a></li>
-                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                            </ul>
                         </div>
                         <div class="body">
                             <div class="table-responsive">
@@ -59,7 +120,7 @@
                                             <td>
                                                 <a href="course-view.php"><button type="button" class="btn btn-primary" title="View Course"><i class="icon-eyeglasses"></i></button></a>
                                                 <a href="course-add.php"><button type="button" class="btn btn-primary" title="Edit Course"><i class="fa fa-edit (alias)"></i></button></a>
-                                                <a href="lession-list.php"><button type="button" class="btn btn-primary" title="Add Topic"><i class="icon-plus"></i></button></a>
+                                                <a href="lession.php"><button type="button" class="btn btn-primary" title="Add Lession"><i class="icon-plus"></i></button></a>
                                                 <a href="course-add.php"><button type="button" class="btn btn-primary" title="Delete"><i class="fa fa-trash-o text-default"></i></button></a>
                                                 <a href="course-add.php"><button type="button" class="btn btn-primary" title="Disable"><i class="fa fa-times-circle"></i></button></a>
                                             </td>

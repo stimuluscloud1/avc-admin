@@ -48,8 +48,7 @@
                                             <td>01-05-2018</td>
                                             <td><span class="badge badge-success bg-success text-white">Paid</span></td>
                                             <td>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-pencil"></i></a>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-trash"></i></a>
+                                                <a href="order-view.php" class="btn btn-outline-secondary"><i class="icon-eye"></i></a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -61,8 +60,7 @@
                                             <td>7-05-2018</td>
                                             <td><span class="badge badge-danger bg-danger text-white">Failed</span></td>
                                             <td>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-pencil"></i></a>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-trash"></i></a>
+                                                <a href="order-view.php" class="btn btn-outline-secondary"><i class="icon-eye"></i></a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -74,8 +72,7 @@
                                             <td>09-05-2018</td>
                                             <td><span class="badge badge-success bg-success text-white">Paid</span></td>
                                             <td>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-pencil"></i></a>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-trash"></i></a>
+                                                <a href="order-view.php" class="btn btn-outline-secondary"><i class="icon-eye"></i></a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -87,8 +84,7 @@
                                             <td>14-05-2018</td>
                                             <td><span class="badge badge-warning bg-warning text-white">Pending</span></td>
                                             <td>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-pencil"></i></a>
-                                                <a href="javascript:void(0);" class="btn btn-outline-secondary"><i class="icon-trash"></i></a>
+                                                <a href="order-view.php" class="btn btn-outline-secondary"><i class="icon-eye"></i></a>
                                             </td>
                                         </tr>      
                                     </tbody>

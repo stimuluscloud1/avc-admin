@@ -3,14 +3,10 @@
     <div class="container-fluid">
         <div class="block-header">
             <div class="row">
-                <div class="col-lg-5 col-md-8 col-sm-12">
-                    <h2>Form Validation</h2>
-                </div>
                 <div class="col-lg-7 col-md-4 col-sm-12 text-right">
                     <ul class="breadcrumb justify-content-end">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item">Forms</li>
-                        <li class="breadcrumb-item active">Form Validation</li>
+                        <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
+                        <li class="breadcrumb-item active">Lession</li>
                     </ul>
                 </div>
             </div>
@@ -19,7 +15,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="header">
-                        <h2>Basic Validation</h2>
+                        <h2>Add Lession</h2>
                     </div>
                     <div class="body">
                         <form id="basic-form" method="post" novalidate>
@@ -112,7 +108,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
+                            <!-- <div class="row">
                                 <div class="col-lg-8 col-md-6">
                                     <div class="form-group">
                                         <label for="lession">Topic Name</label><br>
@@ -131,9 +127,9 @@
                                             <button type="button" class="btn btn-danger">Remove</button>
                                         </div>
                                     </div>
-                            </div>
+                            </div> -->
                             <br>
-                            <button type="submit" class="btn btn-primary">Validate</button>
+                            <button type="submit" class="btn btn-primary">Add Lession</button>
                         </form>
                     </div>
                 </div>
@@ -202,6 +198,8 @@
                                             
                                             <td>
                                                 <a href="instructor-view.php"><button type="button" class="btn btn-link btn-sm" title="Edit"><i class="fa fa-edit (alias)"></i></button></a>
+                                                <a href="topic-add.php"><button type="button" class="btn btn-link btn-sm" title="Add Topic"><i class="fa fa-plus (alias)"></i></button></a>
+                                                
                                                 <button type="button" data-type="confirm" class="btn btn-link btn-sm js-sweetalert" title="Delete"><i class="fa fa-trash-o text-danger"></i></button>
                                             </td>
                                         </tr>
